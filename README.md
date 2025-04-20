@@ -2,6 +2,9 @@
 
 Este proyecto aplica técnicas de machine learning no supervisado para agrupar geográficamente clientes de una empresa de energía. El objetivo es identificar agrupaciones de clientes (clusters) basadas en coordenadas geográficas y dividir los grandes clusters en subgrupos manejables, esto con la finalidad de generar estrategias de cobranza para los clusters más críticos.
 
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/f18955b7-9359-4478-afa5-5ae060ee7b8f" />
+
+
 # Flujo de trabajo
 
 - Carga y limpieza de datos desde un archivo CSV.
