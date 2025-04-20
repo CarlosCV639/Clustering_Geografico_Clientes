@@ -37,8 +37,8 @@ Gracias a la segmentación geográfica y al agrupamiento inteligente de clientes
 - Se identificaron agrupaciones críticas de clientes con alta deuda y antigüedad.
 - Se logró priorizar la atención en zonas de mayor impacto económico.
 
-## Resultados alcanzados:
+# Resultados
 
-- Aumento en los indicadores de recaudación mensual en zonas priorizadas.
+- Aumento del indicador de recaudación mensual en clusters atendidos.
 - Mejora en la eficiencia operativa del contratista encargado de los cortes y reconexiones.
 - Reducción del tiempo promedio de atención por cuadrilla.
